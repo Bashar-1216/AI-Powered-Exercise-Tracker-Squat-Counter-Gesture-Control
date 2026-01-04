@@ -1,6 +1,6 @@
 # 🖥️ Computer Vision Final Project
 
-> مشروع الرؤية الحاسوبية - السنة الثالثة | الترم الثاني
+> 
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green.svg)](https://opencv.org/)
